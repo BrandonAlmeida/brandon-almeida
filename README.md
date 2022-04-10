@@ -1,7 +1,7 @@
 ### Hi I'm Bran Almeida, nice to see you here! 😎
 
 - 🔭 I’m currently working on personal projects
-- 🌱 I’m currently learning cyber security, ethical hacking, python, software engineering
+- 💻 I’m currently learning cyber security, ethical hacking, python, software engineering
 - 👯 I’m looking to collaborate with whatever my skills are able to help
 - 🤔 I’m looking for help with learn more about cyber security and ethical hacking
 - 📫 How to reach me: bran.almeida.s@gmail.com
