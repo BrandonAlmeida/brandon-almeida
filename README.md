@@ -5,21 +5,6 @@
 - 👯 I’m looking to collaborate with whatever my skills are able to help
 - 🤔 I’m looking for help with learn more about cyber security and ethical hacking
 - 📫 How to reach me: bran.almeida.s@gmail.com
-
-<div>
-  <a href="https://github.com/bran-almeida">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brandon-almeida&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandon-almeida&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Bran-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bran-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bran-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bran-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Bran-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Bran-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  
-</div>
   
   ##  
 
